@@ -1,7 +1,7 @@
 # FindTicket
 
 ## Launch MongoDB on localhost:
-### If mongod is not already yet, skip to line 3
+### If mongod is not launched yet, skip to line 3
   `sudo netstat -ntlnp`
   
   `sudo kill [mongod_pid]`

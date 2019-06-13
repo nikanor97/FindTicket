@@ -7,3 +7,5 @@
   `sudo kill [mongod_pid]`
   
   `mongod --dbpath /home/nikita/FindTicket/db/ --port 27017`
+
+## Also added an Android app. Ready for deployment

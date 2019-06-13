@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc0e0438ce0d16a279ad0ec3192f7857\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a2177adfbde6fb08fcf83636b4f4e6e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3258afd5d0212047599e0b46d0fb41fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4cb55adca00d6a4c3cda5ca581cdec6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\17ee1b0e19729ce2dafb992445194dc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4fe19f39d991271563bc9b5eb0fc8b3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\40391f381d37da364402f37ae0ce84b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\053966c2df6bc7cf5de2e6bb378bf470\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fa90becadff9f92acb56904b6fc69c59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\910494b3c90e063ee79a54e9c1b6cff2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5b30ab2dc8f11f468ee54a721ddc62d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8ebaa8760f6129547fda51008b129e8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\124c6989969164b493e172e2a1ecfb07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e65d7a1551718422393cd05e15f0a755\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4d7ad1a26b8aa3aceade05b73a59fcff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\674437912918799629b869657e40ffcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\60db734cd4401ec53b5128b31a7da293\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d3e5d41267b398675a999ec057727bea\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\08b17bf5c615c7c72a431c2a4ff69b5d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\233eb2f8dcf087dbeffa1b156a034a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6373d557c5d15f2f10335b9f5bd4030b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c6cda4579e86bbb146d1954f0f334c94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\082e933d87a7e232f943b3f43823fb20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b951a5b323d77b5d898865dee266be66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\381363802e5b19caf7a4b7d7668f826f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a26fd3f9c546d629280671252429a4bb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ee8af921cb88fc6abda0431d97575c1a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\82e4979bfd271d8ede6c372e034fc236\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\117c5013faef49632a4ce444fd94668e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a2177adfbde6fb08fcf83636b4f4e6e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a2177adfbde6fb08fcf83636b4f4e6e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d3e5d41267b398675a999ec057727bea\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d3e5d41267b398675a999ec057727bea\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\08b17bf5c615c7c72a431c2a4ff69b5d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\08b17bf5c615c7c72a431c2a4ff69b5d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d3e5d41267b398675a999ec057727bea\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:8:9-36
+	android:roundIcon
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.nikan.FindTicketApp2.MainActivity
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:12:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.nikan.FindTicketApp2.TicketActivity
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:19:9-84
+	android:name
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:19:19-81
+activity#com.example.nikan.FindTicketApp2.RecyclerViewActivity
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:20:9-89
+	android:name
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:20:19-87
+activity#com.example.nikan.FindTicketApp2.CityListRecycler
+ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml:21:19-83
+uses-sdk
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc0e0438ce0d16a279ad0ec3192f7857\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc0e0438ce0d16a279ad0ec3192f7857\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a2177adfbde6fb08fcf83636b4f4e6e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a2177adfbde6fb08fcf83636b4f4e6e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3258afd5d0212047599e0b46d0fb41fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3258afd5d0212047599e0b46d0fb41fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4cb55adca00d6a4c3cda5ca581cdec6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4cb55adca00d6a4c3cda5ca581cdec6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\17ee1b0e19729ce2dafb992445194dc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\17ee1b0e19729ce2dafb992445194dc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4fe19f39d991271563bc9b5eb0fc8b3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4fe19f39d991271563bc9b5eb0fc8b3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\40391f381d37da364402f37ae0ce84b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\40391f381d37da364402f37ae0ce84b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\053966c2df6bc7cf5de2e6bb378bf470\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\053966c2df6bc7cf5de2e6bb378bf470\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fa90becadff9f92acb56904b6fc69c59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fa90becadff9f92acb56904b6fc69c59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\910494b3c90e063ee79a54e9c1b6cff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\910494b3c90e063ee79a54e9c1b6cff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5b30ab2dc8f11f468ee54a721ddc62d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5b30ab2dc8f11f468ee54a721ddc62d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8ebaa8760f6129547fda51008b129e8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8ebaa8760f6129547fda51008b129e8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\124c6989969164b493e172e2a1ecfb07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\124c6989969164b493e172e2a1ecfb07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e65d7a1551718422393cd05e15f0a755\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e65d7a1551718422393cd05e15f0a755\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4d7ad1a26b8aa3aceade05b73a59fcff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4d7ad1a26b8aa3aceade05b73a59fcff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\674437912918799629b869657e40ffcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\674437912918799629b869657e40ffcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\60db734cd4401ec53b5128b31a7da293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\60db734cd4401ec53b5128b31a7da293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d3e5d41267b398675a999ec057727bea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d3e5d41267b398675a999ec057727bea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\08b17bf5c615c7c72a431c2a4ff69b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\08b17bf5c615c7c72a431c2a4ff69b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\233eb2f8dcf087dbeffa1b156a034a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\233eb2f8dcf087dbeffa1b156a034a8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6373d557c5d15f2f10335b9f5bd4030b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6373d557c5d15f2f10335b9f5bd4030b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c6cda4579e86bbb146d1954f0f334c94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c6cda4579e86bbb146d1954f0f334c94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\082e933d87a7e232f943b3f43823fb20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\082e933d87a7e232f943b3f43823fb20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b951a5b323d77b5d898865dee266be66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b951a5b323d77b5d898865dee266be66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\381363802e5b19caf7a4b7d7668f826f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\381363802e5b19caf7a4b7d7668f826f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a26fd3f9c546d629280671252429a4bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a26fd3f9c546d629280671252429a4bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ee8af921cb88fc6abda0431d97575c1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ee8af921cb88fc6abda0431d97575c1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\82e4979bfd271d8ede6c372e034fc236\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\82e4979bfd271d8ede6c372e034fc236\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\117c5013faef49632a4ce444fd94668e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\117c5013faef49632a4ce444fd94668e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikan\Documents\GitHub\Android_KIS_2018\FindTicketApp2\app\src\main\AndroidManifest.xml
